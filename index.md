@@ -1,17 +1,24 @@
-Currently supported caclulations:
+(C) [Binary Solutions](https://binarysolutions.biz)
 
-## Celestial Navigation Calculators:
-### Compass Error from Amplitudes Observed on the Visible Horizon
-See the [demo]().
-### Altitude Correction for Air Temperature
-### Table of Offsets
-### Latitude and Longitude Factors
-### Altitude Correction for Atmospheric Pressure
-### Altitude Factors & Change of Altitude
-### Pub 229
-### Compass Error from Amplitudes Observed on the Celestial Horizon
-### Meridian Angle and Altitude of a Body on the Prime Vertical Circle
-See the demo here.
+# Celestial Navigation Calculators:
+## Compass Error from Amplitudes Observed on the Visible Horizon
+See the [demo](https://youtu.be/PMZssUIdAo0).
+## Altitude Correction for Air Temperature
+See the [demo](https://youtu.be/ml2P9zK-erM).
+## Table of Offsets
+See the [demo](https://youtu.be/70rP2fLq6pU).
+## Latitude and Longitude Factors
+See the [demo](https://youtu.be/LVnJW8kWRIM).
+## Altitude Correction for Atmospheric Pressure
+See the [demo](https://youtu.be/jv9dnMhAt5M).
+## Altitude Factors & Change of Altitude
+See the [demo](https://youtu.be/pD89pjG_exU).
+## Pub 229
+See the [demo](https://youtu.be/f_2US3Euaqw).
+## Compass Error from Amplitudes Observed on the Celestial Horizon
+See the [demo](https://youtu.be/nQK5EO_-WNM).
+## Meridian Angle and Altitude of a Body on the Prime Vertical Circle
+See the [demo](https://youtu.be/sHw8l_G_QW4).
 
 # Conversions Calculators:
 ## Chart Scales and Conversion for Nautical and Statute Miles
