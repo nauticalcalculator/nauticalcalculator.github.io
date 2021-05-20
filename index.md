@@ -1,8 +1,8 @@
 Currently supported caclulations:
 
 # Celestial Navigation Calculators:
-## Compass Error from Amplitudes Observed on the Visible Horizon
-See the demo here.
+[## Compass Error from Amplitudes Observed on the Visible Horizon](https://google.com)
+See the [demo].
 ## Altitude Correction for Air Temperature
 ## Table of Offsets
 ## Latitude and Longitude Factors
