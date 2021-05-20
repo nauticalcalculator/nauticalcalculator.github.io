@@ -1,4 +1,4 @@
-(C) [Binary Solutions](https://binarysolutions.biz)
+© 2021 [Binary Solutions](https://binarysolutions.biz)
 
 # Celestial Navigation Calculators:
 ## Compass Error from Amplitudes Observed on the Visible Horizon
