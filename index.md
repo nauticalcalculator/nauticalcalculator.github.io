@@ -1,19 +1,18 @@
 Currently supported caclulations:
 
 # Celestial Navigation Calculators:
-## Length of a Degree of Latitude and Longitude
-## Speed for Measured Mile and Speed, Time, and Distance
-## Distance of an Object by Two Bearings
-## Distance of the Horizon
-## Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
-## Traverse Table
-## Geographic Range
-## Distance by Vertical Angle Measured Between Waterline at Object and Top of Object
-## Dip of Sea Short of the Horizon
-## Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
-## Meridional Parts
+## Compass Error from Amplitudes Observed on the Visible Horizon
+See the demo here.
+## Altitude Correction for Air Temperature
+## Table of Offsets
+## Latitude and Longitude Factors
+## Altitude Correction for Atmospheric Pressure
+## Altitude Factors & Change of Altitude
+## Pub 229
+## Compass Error from Amplitudes Observed on the Celestial Horizon
+## Meridian Angle and Altitude of a Body on the Prime Vertical Circle
+See the demo here.
 
-#
 # Conversions Calculators:
 ## Chart Scales and Conversion for Nautical and Statute Miles
 ## Conversion for Meters, Feet and Fathoms
