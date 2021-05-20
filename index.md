@@ -20,27 +20,40 @@ See the [demo](https://youtu.be/nQK5EO_-WNM).
 ## Meridian Angle and Altitude of a Body on the Prime Vertical Circle
 See the [demo](https://youtu.be/sHw8l_G_QW4).
 
+
 # Conversions Calculators:
 ## Chart Scales and Conversion for Nautical and Statute Miles
+See the [demo](https://youtu.be/yvSyR5pGACs)
 ## Conversion for Meters, Feet and Fathoms
+See the [demo](https://youtu.be/lWDqrGilrs0)
 
-#
 # Distance Calculators:
 ## Length of a Degree of Latitude and Longitude
+See the [demo](https://youtu.be/0k5n5iGnDiE)
 ## Speed for Measured Mile and Speed, Time, and Distance
+See the [demo]()
 ## Distance of an Object by Two Bearings
+See the [demo](https://youtu.be/fD5vAbAxNpU)
 ## Distance of the Horizon
+See the [demo](https://youtu.be/A-7sw1veMqU)
 ## Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
+See the [demo](https://youtu.be/Qt39PQWR2rs)
 ## Traverse Table
+See the [demo]()
 ## Geographic Range
+See the [demo](https://youtu.be/E6BJIsth3JM)
 ## Distance by Vertical Angle Measured Between Waterline at Object and Top of Object
+See the [demo](https://youtu.be/CN0XLSnrIu8)
 ## Dip of Sea Short of the Horizon
+See the [demo](https://youtu.be/tJ-E9PD3lU4)
 ## Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
+See the [demo](https://youtu.be/GuVrzK4av3c)
 ## Meridional Parts
+See the [demo](https://youtu.be/VlQwn6n5Gjc)
 
-#
 # Log and Trig Calculators:
 ## Logarithmic and Trigonometric Functions
+See the [demo]()
 
 #
 # Sailings Calculators:
@@ -60,41 +73,3 @@ See the [demo](https://youtu.be/sHw8l_G_QW4).
 ## Relative Humidity and Dew Point
 ## Correction of Barometer Reading for Temperature
 ## Barometer Measurement Conversions
-
-## Welcome to Home Page
-
-You can use the [editor on GitHub](https://github.com/nauticalcalculator/nauticalcalculator.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nauticalcalculator/nauticalcalculator.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
