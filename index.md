@@ -1,6 +1,6 @@
 Currently supported caclulations:
 
-# Celestial Navigation Calculators
+# Celestial Navigation Calculators:
 ## Length of a Degree of Latitude and Longitude
 ## Speed for Measured Mile and Speed, Time, and Distance
 ## Distance of an Object by Two Bearings
@@ -13,11 +13,11 @@ Currently supported caclulations:
 ## Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
 ## Meridional Parts
 
-# Conversions Calculators
+# Conversions Calculators:
 ## Chart Scales and Conversion for Nautical and Statute Miles
 ## Conversion for Meters, Feet and Fathoms
 
-# Distance Calculators
+# Distance Calculators:
 ## Length of a Degree of Latitude and Longitude
 ## Speed for Measured Mile and Speed, Time, and Distance
 ## Distance of an Object by Two Bearings
@@ -30,17 +30,17 @@ Currently supported caclulations:
 ## Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
 ## Meridional Parts
 
-# Log and Trig Calculators
+# Log and Trig Calculators:
 ## Logarithmic and Trigonometric Functions
 
-# Sailings Calculators
+# Sailings Calculators:
 ## Great Circle Sailing
 ## Mercator Sailing
 
-# Time Zone Table
+# Time Zone Table:
 ## Time Zones, Zone Descriptions, and Suffixes
 
-# Weather Data Calculators
+# Weather Data Calculators:
 ## Direction and Speed of True Wind
 ## Correction of Barometer Reading for Height Above Sea Level
 ## Correction of Barometer Reading for Gravity
