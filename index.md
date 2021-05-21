@@ -31,7 +31,7 @@ See the [demo](https://youtu.be/lWDqrGilrs0)
 ## Length of a Degree of Latitude and Longitude
 See the [demo](https://youtu.be/0k5n5iGnDiE)
 ## Speed for Measured Mile and Speed, Time, and Distance
-See the [demo]()
+See the [demo](https://youtu.be/Z0PBm6Me9Js)
 ## Distance of an Object by Two Bearings
 See the [demo](https://youtu.be/fD5vAbAxNpU)
 ## Distance of the Horizon
