@@ -1,3 +1,4 @@
+You can get the app from Google Play Store [here](https://play.google.com/store/apps/details?id=biz.binarysolutions.nauticalcalculator).
 © 2021 [Binary Solutions](https://binarysolutions.biz)
 
 # Celestial Navigation Calculators:
