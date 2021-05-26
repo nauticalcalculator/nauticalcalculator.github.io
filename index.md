@@ -40,7 +40,7 @@ See the [demo](https://youtu.be/A-7sw1veMqU)
 ## Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
 See the [demo](https://youtu.be/Qt39PQWR2rs)
 ## Traverse Table
-See the [demo]()
+See the [demo](https://youtu.be/NhvFU_44el0)
 ## Geographic Range
 See the [demo](https://youtu.be/E6BJIsth3JM)
 ## Distance by Vertical Angle Measured Between Waterline at Object and Top of Object
