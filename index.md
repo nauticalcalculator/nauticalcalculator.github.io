@@ -52,14 +52,14 @@ See the [demo](https://youtu.be/GuVrzK4av3c)
 ## Meridional Parts
 See the [demo](https://youtu.be/VlQwn6n5Gjc)
 
-# Log and Trig Calculators:
-## Logarithmic and Trigonometric Functions
-See the [demo]()
+# Log and Trig Calculators
+See the [demo](https://youtu.be/xDOYYTP6dqc)
 
-#
 # Sailings Calculators:
 ## Great Circle Sailing
+See the [demo]()
 ## Mercator Sailing
+See the [demo]()
 
 #
 # Time Zone Table:
