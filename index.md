@@ -21,7 +21,6 @@ See the [demo](https://youtu.be/nQK5EO_-WNM).
 ## Meridian Angle and Altitude of a Body on the Prime Vertical Circle
 See the [demo](https://youtu.be/sHw8l_G_QW4).
 
-
 # Conversions Calculators:
 ## Chart Scales and Conversion for Nautical and Statute Miles
 See the [demo](https://youtu.be/yvSyR5pGACs)
@@ -57,7 +56,7 @@ See the [demo](https://youtu.be/xDOYYTP6dqc)
 
 # Sailings Calculators:
 ## Great Circle Sailing
-See the [demo]()
+See the [demo](https://youtu.be/L4_uaKiajoI)
 ## Mercator Sailing
 See the [demo]()
 
