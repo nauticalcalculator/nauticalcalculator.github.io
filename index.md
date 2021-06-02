@@ -23,47 +23,47 @@ See the [demo](https://youtu.be/sHw8l_G_QW4).
 
 # Conversions Calculators:
 ## Chart Scales and Conversion for Nautical and Statute Miles
-See the [demo](https://youtu.be/yvSyR5pGACs)
+See the [demo](https://youtu.be/yvSyR5pGACs).
 ## Conversion for Meters, Feet and Fathoms
-See the [demo](https://youtu.be/lWDqrGilrs0)
+See the [demo](https://youtu.be/lWDqrGilrs0).
 
 # Distance Calculators:
 ## Length of a Degree of Latitude and Longitude
-See the [demo](https://youtu.be/0k5n5iGnDiE)
+See the [demo](https://youtu.be/0k5n5iGnDiE).
 ## Speed for Measured Mile and Speed, Time, and Distance
-See the [demo](https://youtu.be/Z0PBm6Me9Js)
+See the [demo](https://youtu.be/Z0PBm6Me9Js).
 ## Distance of an Object by Two Bearings
-See the [demo](https://youtu.be/fD5vAbAxNpU)
+See the [demo](https://youtu.be/fD5vAbAxNpU).
 ## Distance of the Horizon
-See the [demo](https://youtu.be/A-7sw1veMqU)
+See the [demo](https://youtu.be/A-7sw1veMqU).
 ## Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
-See the [demo](https://youtu.be/Qt39PQWR2rs)
+See the [demo](https://youtu.be/Qt39PQWR2rs).
 ## Traverse Table
-See the [demo](https://youtu.be/NhvFU_44el0)
+See the [demo](https://youtu.be/NhvFU_44el0).
 ## Geographic Range
-See the [demo](https://youtu.be/E6BJIsth3JM)
+See the [demo](https://youtu.be/E6BJIsth3JM).
 ## Distance by Vertical Angle Measured Between Waterline at Object and Top of Object
-See the [demo](https://youtu.be/CN0XLSnrIu8)
+See the [demo](https://youtu.be/CN0XLSnrIu8).
 ## Dip of Sea Short of the Horizon
 See the [demo](https://youtu.be/tJ-E9PD3lU4)
 ## Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
-See the [demo](https://youtu.be/GuVrzK4av3c)
+See the [demo](https://youtu.be/GuVrzK4av3c).
 ## Meridional Parts
-See the [demo](https://youtu.be/VlQwn6n5Gjc)
+See the [demo](https://youtu.be/VlQwn6n5Gjc).
 
 # Log and Trig Calculators
-See the [demo](https://youtu.be/xDOYYTP6dqc)
+See the [demo](https://youtu.be/xDOYYTP6dqc).
 
 # Sailings Calculators:
 ## Great Circle Sailing
-See the [demo](https://youtu.be/L4_uaKiajoI)
+See the [demo](https://youtu.be/L4_uaKiajoI).
 ## Mercator Sailing
-See the [demo](https://youtu.be/63zdbKrL4EY)
+See the [demo](https://youtu.be/63zdbKrL4EY).
 
 #
 # Time Zone Table:
 ## Time Zones, Zone Descriptions, and Suffixes
-See the [demo]()
+See the [demo]().
 
 #
 # Weather Data Calculators:
