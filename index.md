@@ -58,11 +58,12 @@ See the [demo](https://youtu.be/xDOYYTP6dqc)
 ## Great Circle Sailing
 See the [demo](https://youtu.be/L4_uaKiajoI)
 ## Mercator Sailing
-See the [demo]()
+See the [demo](https://youtu.be/63zdbKrL4EY)
 
 #
 # Time Zone Table:
 ## Time Zones, Zone Descriptions, and Suffixes
+See the [demo]()
 
 #
 # Weather Data Calculators:
