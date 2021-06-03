@@ -60,14 +60,14 @@ See the [demo](https://youtu.be/L4_uaKiajoI).
 ## Mercator Sailing
 See the [demo](https://youtu.be/63zdbKrL4EY).
 
-#
 # Time Zone Table:
 ## Time Zones, Zone Descriptions, and Suffixes
-See the [demo]().
+See the [demo](https://youtu.be/agpUt3IHioc).
 
 #
 # Weather Data Calculators:
 ## Direction and Speed of True Wind
+See the [demo]().
 ## Correction of Barometer Reading for Height Above Sea Level
 ## Correction of Barometer Reading for Gravity
 ## Temperature Conversions
