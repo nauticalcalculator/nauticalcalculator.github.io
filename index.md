@@ -68,6 +68,7 @@ See the [demo](https://youtu.be/agpUt3IHioc).
 ## Direction and Speed of True Wind
 See the [demo]().
 ## Correction of Barometer Reading for Height Above Sea Level
+See the [demo](https://youtu.be/8-C2ARD-o9o).
 ## Correction of Barometer Reading for Gravity
 See the [demo](https://youtu.be/QxaQpa87PHo).
 ## Temperature Conversions
