@@ -66,13 +66,15 @@ See the [demo](https://youtu.be/agpUt3IHioc).
 
 # Weather Data Calculators:
 ## Direction and Speed of True Wind
-See the [demo]().
+See the [demo](https://youtu.be/W5_e7Eh9Fv0).
 ## Correction of Barometer Reading for Height Above Sea Level
 See the [demo](https://youtu.be/8-C2ARD-o9o).
 ## Correction of Barometer Reading for Gravity
 See the [demo](https://youtu.be/QxaQpa87PHo).
 ## Temperature Conversions
+See the [demo]().
 ## Relative Humidity and Dew Point
+See the [demo]().
 ## Correction of Barometer Reading for Temperature
 See the [demo](https://youtu.be/gpvMANx2BF0).
 ## Barometer Measurement Conversions
