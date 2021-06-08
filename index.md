@@ -74,7 +74,7 @@ See the [demo](https://youtu.be/QxaQpa87PHo).
 ## Temperature Conversions
 See the [demo]().
 ## Relative Humidity and Dew Point
-See the [demo]().
+See the [demo](https://youtu.be/EpoxTpM5ENc).
 ## Correction of Barometer Reading for Temperature
 See the [demo](https://youtu.be/gpvMANx2BF0).
 ## Barometer Measurement Conversions
