@@ -18,3 +18,12 @@ header a.button {
   background-image: url("https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png");
   background-size: 100% 100%;
 }
+
+@media only screen and (max-width: 767px){
+  header a.button {
+    width: unset;
+    height: unset;
+    padding: unset;
+    margin-top: unset;
+  }
+}
