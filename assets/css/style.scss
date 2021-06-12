@@ -22,6 +22,7 @@ header a.button {
 @media only screen and (max-width: 767px) {
   header a.button {
     width: 134px;
-    height: 52px;
+    height: 58px;
+    padding: unset;
   }
 }
