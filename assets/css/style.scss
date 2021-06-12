@@ -19,11 +19,9 @@ header a.button {
   background-size: 100% 100%;
 }
 
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 767px) {
   header a.button {
     width: unset;
     height: unset;
-    padding: unset;
-    margin-top: unset;
   }
 }
