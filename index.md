@@ -1,6 +1,16 @@
 You can get the app from Google Play Store [here](https://play.google.com/store/apps/details?id=biz.binarysolutions.nauticalcalculator).
 © 2021 [Binary Solutions](https://binarysolutions.biz)
 
+
+# Available Calculators:
+* [Celestial Navigation]()
+* Conversions
+* Distance Calculators
+* Log and Trig Functions
+* Sailings Calculators
+* Time Zone Table
+* Weather Data Calculators
+
 # Celestial Navigation Calculators:
 ## Compass Error from Amplitudes Observed on the Visible Horizon
 See the [demo](https://youtu.be/PMZssUIdAo0).
