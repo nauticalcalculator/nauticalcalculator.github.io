@@ -1,5 +1,5 @@
 layout: page
-title: Celestial Navigation Calculators
+title: "Celestial Navigation Calculators"
 permalink: /celestial_navigation/
 
 # Celestial Navigation Calculators:
