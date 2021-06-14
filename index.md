@@ -28,35 +28,12 @@
 * Sailings Calculators
   * Great Circle Sailing
   * Mercator Sailing
-* Time Zone Table
+* Time Zones, Zone Descriptions, and Suffixes
 * Weather Data Calculators
-
-
-# Log and Trig Calculators
-See the [demo](https://youtu.be/xDOYYTP6dqc).
-
-# Sailings Calculators:
-## Great Circle Sailing
-See the [demo](https://youtu.be/L4_uaKiajoI).
-## Mercator Sailing
-See the [demo](https://youtu.be/63zdbKrL4EY).
-
-# Time Zone Table:
-## Time Zones, Zone Descriptions, and Suffixes
-See the [demo](https://youtu.be/agpUt3IHioc).
-
-# Weather Data Calculators:
-## Direction and Speed of True Wind
-See the [demo](https://youtu.be/W5_e7Eh9Fv0).
-## Correction of Barometer Reading for Height Above Sea Level
-See the [demo](https://youtu.be/8-C2ARD-o9o).
-## Correction of Barometer Reading for Gravity
-See the [demo](https://youtu.be/QxaQpa87PHo).
-## Temperature Conversions
-See the [demo](https://youtu.be/b_G0HsgX9Eo).
-## Relative Humidity and Dew Point
-See the [demo](https://youtu.be/EpoxTpM5ENc).
-## Correction of Barometer Reading for Temperature
-See the [demo](https://youtu.be/gpvMANx2BF0).
-## Barometer Measurement Conversions
-See the [demo](https://youtu.be/vWuMM30d0p4).
+  * Direction and Speed of True Wind
+  * Correction of Barometer Reading for Height Above Sea Level
+  * Correction of Barometer Reading for Gravity
+  * Temperature Conversions
+  * Relative Humidity and Dew Point
+  * Correction of Barometer Reading for Temperature
+  * Barometer Measurement Conversions
