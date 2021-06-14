@@ -1,7 +1,3 @@
-layout: page
-title: "Celestial Navigation Calculators"
-permalink: /celestial_navigation/
-
 # Celestial Navigation Calculators:
 ## Compass Error from Amplitudes Observed on the Visible Horizon
 See the [demo](https://youtu.be/PMZssUIdAo0).
