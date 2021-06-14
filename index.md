@@ -16,7 +16,7 @@
   * Length of a Degree of Latitude and Longitude
   * Speed for Measured Mile and Speed, Time, and Distance
   * Distance of an Object by Two Bearings
-  *## Distance of the Horizon
+  * ## Distance of the Horizon
 See the [demo](https://youtu.be/A-7sw1veMqU).
 ## Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
 See the [demo](https://youtu.be/Qt39PQWR2rs).
