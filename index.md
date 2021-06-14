@@ -10,48 +10,13 @@
   * Compass Error from Amplitudes Observed on the Celestial Horizon
   * Meridian Angle and Altitude of a Body on the Prime Vertical Circle
 * Conversions
+  * Chart Scales and Conversion for Nautical and Statute Miles
+  * Conversion for Meters, Feet and Fathoms
 * Distance Calculators
-* Log and Trig Functions
-* Sailings Calculators
-  * Great Circle Sailing
-  * Mercator Sailing
-* Time Zone Table
-* Weather Data Calculators
-
-# Celestial Navigation Calculators:
-## Compass Error from Amplitudes Observed on the Visible Horizon
-See the [demo](https://youtu.be/PMZssUIdAo0).
-## Altitude Correction for Air Temperature
-See the [demo](https://youtu.be/ml2P9zK-erM).
-## Table of Offsets
-See the [demo](https://youtu.be/70rP2fLq6pU).
-## Latitude and Longitude Factors
-See the [demo](https://youtu.be/LVnJW8kWRIM).
-## Altitude Correction for Atmospheric Pressure
-See the [demo](https://youtu.be/jv9dnMhAt5M).
-## Altitude Factors & Change of Altitude
-See the [demo](https://youtu.be/pD89pjG_exU).
-## Pub 229
-See the [demo](https://youtu.be/f_2US3Euaqw).
-## Compass Error from Amplitudes Observed on the Celestial Horizon
-See the [demo](https://youtu.be/nQK5EO_-WNM).
-## Meridian Angle and Altitude of a Body on the Prime Vertical Circle
-See the [demo](https://youtu.be/sHw8l_G_QW4).
-
-# Conversions Calculators:
-## Chart Scales and Conversion for Nautical and Statute Miles
-See the [demo](https://youtu.be/yvSyR5pGACs).
-## Conversion for Meters, Feet and Fathoms
-See the [demo](https://youtu.be/lWDqrGilrs0).
-
-# Distance Calculators:
-## Length of a Degree of Latitude and Longitude
-See the [demo](https://youtu.be/0k5n5iGnDiE).
-## Speed for Measured Mile and Speed, Time, and Distance
-See the [demo](https://youtu.be/Z0PBm6Me9Js).
-## Distance of an Object by Two Bearings
-See the [demo](https://youtu.be/fD5vAbAxNpU).
-## Distance of the Horizon
+  * Length of a Degree of Latitude and Longitude
+  * Speed for Measured Mile and Speed, Time, and Distance
+  * Distance of an Object by Two Bearings
+  *## Distance of the Horizon
 See the [demo](https://youtu.be/A-7sw1veMqU).
 ## Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
 See the [demo](https://youtu.be/Qt39PQWR2rs).
@@ -67,6 +32,14 @@ See the [demo](https://youtu.be/tJ-E9PD3lU4)
 See the [demo](https://youtu.be/GuVrzK4av3c).
 ## Meridional Parts
 See the [demo](https://youtu.be/VlQwn6n5Gjc).
+
+* Log and Trig Functions
+* Sailings Calculators
+  * Great Circle Sailing
+  * Mercator Sailing
+* Time Zone Table
+* Weather Data Calculators
+
 
 # Log and Trig Calculators
 See the [demo](https://youtu.be/xDOYYTP6dqc).
