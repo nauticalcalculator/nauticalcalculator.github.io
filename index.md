@@ -16,23 +16,14 @@
   * Length of a Degree of Latitude and Longitude
   * Speed for Measured Mile and Speed, Time, and Distance
   * Distance of an Object by Two Bearings
-  * ## Distance of the Horizon
-See the [demo](https://youtu.be/A-7sw1veMqU).
-## Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
-See the [demo](https://youtu.be/Qt39PQWR2rs).
-## Traverse Table
-See the [demo](https://youtu.be/NhvFU_44el0).
-## Geographic Range
-See the [demo](https://youtu.be/E6BJIsth3JM).
-## Distance by Vertical Angle Measured Between Waterline at Object and Top of Object
-See the [demo](https://youtu.be/CN0XLSnrIu8).
-## Dip of Sea Short of the Horizon
-See the [demo](https://youtu.be/tJ-E9PD3lU4)
-## Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
-See the [demo](https://youtu.be/GuVrzK4av3c).
-## Meridional Parts
-See the [demo](https://youtu.be/VlQwn6n5Gjc).
-
+  * Distance of the Horizon
+  * Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
+  * Traverse Table
+  * Geographic Range
+  * Distance by Vertical Angle Measured Between Waterline at Object and Top of Object
+  * Dip of Sea Short of the Horizon
+  * Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
+  * Meridional Parts
 * Log and Trig Functions
 * Sailings Calculators
   * Great Circle Sailing
