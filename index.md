@@ -1,8 +1,14 @@
-You can get the app from Google Play Store [here](https://play.google.com/store/apps/details?id=biz.binarysolutions.nauticalcalculator).
-© 2021 [Binary Solutions](https://binarysolutions.biz)
-
 # Available Calculations:
-* [Celestial Navigation Calculators]()
+* [Celestial Navigation Calculators](/celestial_navigation/)
+  * Compass Error from Amplitudes Observed on the Visible Horizon
+  * Altitude Correction for Air Temperature
+  * Table of Offsets
+  * Latitude and Longitude Factors
+  * Altitude Correction for Atmospheric Pressure
+  * Altitude Factors & Change of Altitude
+  * Pub 229
+  * Compass Error from Amplitudes Observed on the Celestial Horizon
+  * Meridian Angle and Altitude of a Body on the Prime Vertical Circle
 * Conversions
 * Distance Calculators
 * Log and Trig Functions
