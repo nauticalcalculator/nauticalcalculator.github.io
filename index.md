@@ -28,7 +28,7 @@
 * [Sailings Calculators](/sailings/)
   * Great Circle Sailing
   * Mercator Sailing
-* Time Zones, Zone Descriptions, and Suffixes
+* [Time Zones, Zone Descriptions, and Suffixes](/time_zones/)
 * Weather Data Calculators
   * Barometer Measurement Conversions
   * Correction of Barometer Reading for Gravity
