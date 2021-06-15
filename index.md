@@ -29,7 +29,7 @@
   * Great Circle Sailing
   * Mercator Sailing
 * [Time Zones, Zone Descriptions, and Suffixes](/time_zones/)
-* Weather Data Calculators
+* [Weather Data Calculators](/weather_data/)
   * Barometer Measurement Conversions
   * Correction of Barometer Reading for Gravity
   * Correction of Barometer Reading for Height Above Sea Level
