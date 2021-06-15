@@ -25,7 +25,7 @@
   * Speed for Measured Mile and Speed, Time, and Distance
   * Traverse Table
 * [Logarithmic and Trigonometric Functions](/log_and_trig/)
-* Sailings Calculators
+* [Sailings Calculators](/sailings/)
   * Great Circle Sailing
   * Mercator Sailing
 * Time Zones, Zone Descriptions, and Suffixes
