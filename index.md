@@ -9,7 +9,7 @@
   * Meridian Angle and Altitude of a Body on the Prime Vertical Circle
   * Pub 229
   * Table of Offsets
-* Conversions
+* [Conversions](/conversions/)
   * Chart Scales and Conversion for Nautical and Statute Miles
   * Conversion for Meters, Feet and Fathoms
 * Distance Calculators
