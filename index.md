@@ -24,7 +24,7 @@
   * Meridional Parts
   * Speed for Measured Mile and Speed, Time, and Distance
   * Traverse Table
-* [Log and Trig Functions](/log_and_trig/)
+* [Logarithmic and Trigonometric Functions](/log_and_trig/)
 * Sailings Calculators
   * Great Circle Sailing
   * Mercator Sailing
