@@ -12,7 +12,7 @@
 * [Conversions](/conversions/)
   * Chart Scales and Conversion for Nautical and Statute Miles
   * Conversion for Meters, Feet and Fathoms
-* Distance Calculators
+* [Distance Calculators](/distance/)
   * Dip of Sea Short of the Horizon
   * Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
   * Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
