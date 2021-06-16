@@ -10,7 +10,7 @@
   * Pub 229
   * Table of Offsets
 * [Conversions](/conversions/)
-  * Chart Scales and Conversion for Nautical and Statute Miles
+  * [Chart Scales and Conversion for Nautical and Statute Miles](/conversions/#chart-scales-and-conversion-for-nautical-and-statute-miles)
   * Conversion for Meters, Feet and Fathoms
 * [Distance Calculators](/distance/)
   * Dip of Sea Short of the Horizon
