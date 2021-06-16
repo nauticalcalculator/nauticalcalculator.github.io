@@ -11,7 +11,7 @@
   * Table of Offsets
 * [Conversions](/conversions/)
   * [Chart Scales and Conversion for Nautical and Statute Miles](/conversions/#chart-scales-and-conversion-for-nautical-and-statute-miles)
-  * Conversion for Meters, Feet and Fathoms
+  * [Conversion for Meters, Feet and Fathoms](/conversions/#conversion-for-meters-feet-and-fathoms)
 * [Distance Calculators](/distance/)
   * Dip of Sea Short of the Horizon
   * Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
@@ -26,8 +26,8 @@
   * Traverse Table
 * [Logarithmic and Trigonometric Functions](/log_and_trig/)
 * [Sailings Calculators](/sailings/)
-  * Great Circle Sailing
-  * Mercator Sailing
+  * [Great Circle Sailing](/sailings/#great-circle-sailing)
+  * [Mercator Sailing](/sailings/#mercator-sailing)
 * [Time Zones, Zone Descriptions, and Suffixes](/time_zones/)
 * [Weather Data Calculators](/weather_data/)
   * Barometer Measurement Conversions
