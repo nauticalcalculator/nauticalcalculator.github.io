@@ -1,5 +1,5 @@
 # Available Calculations:
-* [Celestial Navigation Calculators](/celestial_navigation/)
+* [**Celestial Navigation Calculators**](/celestial_navigation/)
   * Altitude Correction for Air Temperature
   * Altitude Correction for Atmospheric Pressure
   * Altitude Factors & Change of Altitude
