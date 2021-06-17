@@ -1,4 +1,4 @@
-# Weather Data Calculators:
+# Weather Data Calculators
 * Barometer Measurement Conversions
 * Correction of Barometer Reading for Gravity
 * Correction of Barometer Reading for Height Above Sea Level
