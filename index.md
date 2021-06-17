@@ -38,10 +38,10 @@
 * [**Time Zones, Zone Descriptions, and Suffixes**](/time_zones/)
 
 * [**Weather Data Calculators**](/weather_data/)
-  * Barometer Measurement Conversions
-  * Correction of Barometer Reading for Gravity
-  * Correction of Barometer Reading for Height Above Sea Level
-  * Correction of Barometer Reading for Temperature
-  * Direction and Speed of True Wind
-  * Relative Humidity and Dew Point
-  * Temperature Conversions
+  * [Barometer Measurement Conversions](./weather_data/barometer_measurement_conversions)
+  * [Correction of Barometer Reading for Gravity](./weather_data/correction_of_barometer_reading_for_gravity)
+  * [Correction of Barometer Reading for Height Above Sea Level](./weather_data/correction_of_barometer_reading_for_height_above_sea_level)
+  * [Correction of Barometer Reading for Temperature](./weather_data/correction_of_barometer_reading_for_temperature)
+  * [Direction and Speed of True Wind](./weather_data/direction_and_speed_of_true_wind)
+  * [Relative Humidity and Dew Point](./weather_data/relative_humidity_and_dew_point)
+  * [Temperature Conversions](./weather_data/temperature_conversions)
