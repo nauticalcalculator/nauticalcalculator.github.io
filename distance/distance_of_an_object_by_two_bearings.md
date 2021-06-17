@@ -1,1 +1,2 @@
-
+# Distance of an Object by Two Bearings
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fD5vAbAxNpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
