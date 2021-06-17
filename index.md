@@ -1,16 +1,16 @@
 <div></div>
 
 # Available Calculations
-* [**Celestial Navigation Calculators**](/celestial_navigation/)
-  * Altitude Correction for Air Temperature
-  * Altitude Correction for Atmospheric Pressure
-  * Altitude Factors & Change of Altitude
-  * Compass Error from Amplitudes Observed on the Celestial Horizon
-  * Compass Error from Amplitudes Observed on the Visible Horizon
-  * Latitude and Longitude Factors
-  * Meridian Angle and Altitude of a Body on the Prime Vertical Circle
-  * Pub 229
-  * Table of Offsets
+  * [**Celestial Navigation Calculators**](/celestial_navigation/)
+  * [Altitude Correction for Air Temperature](./celestial_navigation/altitude_correction_for_air_temperature)
+  * [Altitude Correction for Atmospheric Pressure](./celestial_navigation/altitude_correction_for_atmospheric_pressure)
+  * [Altitude Factors & Change of Altitude](./celestial_navigation/altitude_factors_and_change_of_altitude)
+  * [Compass Error from Amplitudes Observed on the Celestial Horizon](./celestial_navigation/compass_error_from_amplitudes_observed_on_the_celestial_horizon)
+  * [Compass Error from Amplitudes Observed on the Visible Horizon](./celestial_navigation/compass_error_from_amplitudes_observed_on_the_visible_horizon)
+  * [Latitude and Longitude Factors](./celestial_navigation/latitude_and_longitude_factors)
+  * [Meridian Angle and Altitude of a Body on the Prime Vertical Circle](./celestial_navigation/meridian_angle_and_altitude_of_a_body_on_the_prime_vertical_circle)
+  * [Pub 229](./celestial_navigation/pub_299)
+  * [Table of Offsets](./celestial_navigation/table_of_offsets)
 
 * [**Conversions**](/conversions/)
   * [Chart Scales and Conversion for Nautical and Statute Miles](/conversions/#chart-scales-and-conversion-for-nautical-and-statute-miles)
