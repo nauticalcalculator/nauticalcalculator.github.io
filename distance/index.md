@@ -1,4 +1,4 @@
-# Distance Calculators:
+# Distance Calculators
 * Dip of Sea Short of the Horizon
 * Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon
 * Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object
