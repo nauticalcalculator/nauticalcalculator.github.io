@@ -1,4 +1,4 @@
-
+&nbsp;
 # Available Calculations
 * [**Celestial Navigation Calculators**](/celestial_navigation/)
   * Altitude Correction for Air Temperature
