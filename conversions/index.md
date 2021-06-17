@@ -1,4 +1,4 @@
-# Conversions:
+# Conversions
 * [Chart Scales and Conversion for Nautical and Statute Miles](#chart-scales-and-conversion-for-nautical-and-statute-miles)
 * [Conversion for Meters, Feet and Fathoms](#conversion-for-meters-feet-and-fathoms)
 
