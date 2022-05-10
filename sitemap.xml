@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nauticalcalculator.eu/</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/altitude_correction_for_air_temperature</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/altitude_correction_for_atmospheric_pressure</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/altitude_factors_and_change_of_altitude</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/compass_error_from_amplitudes_observed_on_the_celestial_horizon</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/compass_error_from_amplitudes_observed_on_the_visible_horizon</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/latitude_and_longitude_factors</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/meridian_angle_and_altitude_of_a_body_on_the_prime_vertical_circle</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/pub_299</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/celestial_navigation/table_of_offsets</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/conversions/</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/dip_of_sea_short_of_the_horizon</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/distance_by_vertical_angle_measured_between_sea_horizon_and_top_of_object_beyond_sea_horizon</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/distance_by_vertical_angle_measured_between_waterline_at_object_and_sea_horizon_beyond_object</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/distance_by_vertical_angle_measured_between_waterline_at_object_and_top_of_object</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/distance_of_an_object_by_two_bearings</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/distance_of_the_horizon</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/geographic_range</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/length_of_a_degree_of_latitude_and_longitude</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/meridional_parts</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/speed_for_measured_mile_and_speed_time_and_distance</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/distance/traverse_table</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/log_and_trig/</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/sailings/</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/time_zones/</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/weather_data/</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/weather_data/barometer_measurement_conversions</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/weather_data/correction_of_barometer_reading_for_gravity</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/weather_data/correction_of_barometer_reading_for_height_above_sea_level</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/weather_data/correction_of_barometer_reading_for_temperature</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/weather_data/direction_and_speed_of_true_wind</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/weather_data/relative_humidity_and_dew_point</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/weather_data/temperature_conversions</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nauticalcalculator.eu/privacy_policy</loc>
+  <lastmod>2021-08-18T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
