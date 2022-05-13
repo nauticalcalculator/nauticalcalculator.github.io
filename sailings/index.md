@@ -1,3 +1,6 @@
+---
+description: Great Circle Sailing and Mercator Sailing
+---
 # Sailings Calculators
 * [Great Circle Sailing](#great-circle-sailing)
 * [Mercator Sailing](#mercator-sailing)
