@@ -1,5 +1,5 @@
 ---
-description: Speed for a measured mile: given the time in seconds, compute the speed in knots. Speed, time and distance: given two values, compute the third.
+description: Speed for a measured mile - given the time in seconds, compute the speed in knots. Speed, time and distance - given two values, compute the third.
 ---
 # Speed for Measured Mile and Speed, Time, and Distance
 {{ page.description }}
