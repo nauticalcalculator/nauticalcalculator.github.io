@@ -1,4 +1,4 @@
-# Distance Calculators
+## Distance Calculators
 * [Dip of Sea Short of the Horizon](./dip-of-sea-short-of-the-horizon.html)
 * [Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon](./distance-by-vertical-angle-measured-between-sea-horizon-and-top-of-object-beyond-sea-horizon.html)
 * [Distance by Vertical Angle Measured Between Waterline at Object and Sea Horizon Beyond Object](./distance-by-vertical-angle-measured-between-waterline-at-object-and-sea-horizon-beyond-object.html)
