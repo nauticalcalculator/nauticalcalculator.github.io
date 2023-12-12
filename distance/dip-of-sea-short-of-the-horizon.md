@@ -1,3 +1,6 @@
+---
+description: Accurately determine the dip of the sea short of the horizon with our Nautical Calculator for Android. Enhance your maritime calculations.
+---
 ## Dip of Sea Short of the Horizon
 If land, another vessel, or other obstruction is between the observer and the sea horizon, use the waterline of the obstruction as the horizontal reference for altitude measurements, and substitute dip from this calculation for the dip of the horizon (height of eye correction) given in the Nautical Almanac. 
 

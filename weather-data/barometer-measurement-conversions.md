@@ -1,5 +1,5 @@
 ---
-description: Conversion from one barometer measurement scale to the others.
+description: Effortlessly convert barometer measurements between scales—millibars, inches of mercury, and millimeters of mercury.
 ---
 ## Barometer Measurement Conversions
 This calculation allows conversion from one barometer measurement scale to another including millibars, inches of mercury, and millimeters of mercury.

@@ -1,3 +1,6 @@
+---
+description: Download our Nautical Calculator app for accurate celestial computations at your fingertips. Altitude correction, compass error and many other.
+---
 ## Celestial Navigation Calculators
 * [Altitude Correction for Air Temperature](./altitude-correction-for-air-temperature.html)
 * [Altitude Correction for Atmospheric Pressure](./altitude-correction-for-atmospheric-pressure.html)

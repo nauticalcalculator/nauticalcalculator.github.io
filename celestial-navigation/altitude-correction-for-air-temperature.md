@@ -1,3 +1,6 @@
+---
+description: Enhance celestial navigation accuracy. Correct altitude for air temperature variations with our Nautical Calculator for Android.
+---
 ## Altitude Correction for Air Temperature
 This calculation provides a correction to be applied to the altitude of a celestial body when the air temperature varies from the 50° F used for determining mean refraction with the _Nautical Almanac_. For maximum accuracy, apply index correction and dip to sextant altitude first, obtaining apparent (rectified) altitude.
 

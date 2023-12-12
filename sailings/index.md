@@ -1,5 +1,5 @@
 ---
-description: Great Circle Sailing and Mercator Sailing
+description: Great Circle Sailing and Mercator Sailing. Download our Nautical Calculator app for accurate and efficient sailing computations.
 ---
 ## Sailings Calculators
 * [Great Circle Sailing](#great-circle-sailing)

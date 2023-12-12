@@ -1,5 +1,5 @@
 ---
-description: Computes the difference between ship heading and true wind direction and true wind speed.
+description: Computes the difference between ship heading and true wind direction and true wind speed. Nautical Calculator for Android.
 ---
 ## Direction and Speed of True Wind
 This form will compute the difference between ship heading and true wind direction and true wind speed. Difference between ship heading and apparent wind direction and apparent wind speed must be provided.

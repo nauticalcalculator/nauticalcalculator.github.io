@@ -1,3 +1,6 @@
+---
+description: From dip of sea to two-bearing distances, explore a comprehensive range of distance calculators for accurate navigation.
+---
 ## Distance Calculators
 * [Dip of Sea Short of the Horizon](./dip-of-sea-short-of-the-horizon.html)
 * [Distance by Vertical Angle Measured Between Sea Horizon and Top of Object Beyond Sea Horizon](./distance-by-vertical-angle-measured-between-sea-horizon-and-top-of-object-beyond-sea-horizon.html)

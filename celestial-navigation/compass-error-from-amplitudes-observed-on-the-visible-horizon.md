@@ -1,3 +1,6 @@
+---
+description: Refine navigation accuracy by calculating Compass Error from observed amplitudes on the visible horizon. Trust our Nautical Calculator for Android.
+---
 ## Compass Error from Amplitudes Observed on the Visible Horizon
 This calculation contains a correction to be applied to the amplitude observed when the center of a celestial body is on the visible horizon, to obtain the corresponding amplitude when the center of the body is on the celestial horizon. For the sun, a planet, or a star, apply the correction in the direction away from the elevated pole, thus _increasing_ the _azimuth angle_. For the moon apply _half_ the correction _toward_ the elevated pole.
 

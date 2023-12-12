@@ -1,3 +1,6 @@
+---
+description: Familiarize yourself with our Privacy Policy for the Nautical Calculator app. Learn how we handle and protect your information.
+---
 ## Privacy Policy for Nautical Calculator
 
 Version: 2021-08-17

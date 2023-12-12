@@ -1,3 +1,6 @@
+---
+description: Meridian Angle and Altitude of a Body on the Prime Vertical Circle. Nautical Calculator for Android. Download now.
+---
 ## Meridian Angle and Altitude of a Body on the Prime Vertical Circle
 The calculation is entered with declination of the celestial body and the latitude of the observer. Computed altitudes are given, with no allowance made for refraction, dip, parallax, etc. The calculated values apply to any celestial body, but values are not given for declination greater than 23° because the tabulated information is generally desired for the sun only.
 

@@ -1,3 +1,6 @@
+---
+description: Allows calculation of the data in the Traverse table. Enter known data in the appropriate fields and mark the fields you want to be calculated.
+---
 ## Traverse Table
 Allows calculation of the data in the Traverse table. Enter known data in the appropriate fields and place checkmarks next to the fields you want to be calculated.
 

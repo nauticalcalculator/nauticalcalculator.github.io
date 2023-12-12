@@ -1,3 +1,6 @@
+---
+description: Provides a correction to be applied to the altitude of a celestial body when the atmospheric pressure varies from the 29.83 inches (1010 millibars).
+---
 ## Altitude Correction for Atmospheric Pressure
 This calculation provides a correction to be applied to the altitude of a celestial body when the atmospheric pressure varies from the 29.83 inches (1010 millibars) used for determining mean refraction using the _Nautical Almanac_.
 

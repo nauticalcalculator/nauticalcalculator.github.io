@@ -1,3 +1,6 @@
+---
+description: This calculation gives the errors resulting from unit errors in the assumed values used in the computations. Nautical Calculator for Android.
+---
 ## Latitude and Longitude Factors
 The latitude obtained by an ex-meridian sight is inaccurate if the longitude used in determining the meridian angle is incorrect. Similarly, the longitude obtained by solution of a time sight is inaccurate if the latitude used in the solution is incorrect, unless the celestial body is on the prime vertical.
 

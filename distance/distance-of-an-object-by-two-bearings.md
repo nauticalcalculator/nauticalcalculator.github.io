@@ -1,3 +1,6 @@
+---
+description: Calculate the distance to an object as your vessel passes using two bearings. Enter bearings and distance between them for precise results.
+---
 ## Distance of an Object by Two Bearings
 To determine the distance of an object as a vessel on a steady course passes it, enter the two bearings, and the distance between them. The calculation uses plane oblique and right triangles to calculate the distance to the object at the second bearing and the distance to the object when abeam.
 

@@ -1,5 +1,5 @@
 ---
-description: Computes the relative humidity given the dry and wet-bulb temperatures. 
+description: Computes the relative humidity given the dry and wet-bulb temperatures. Nautical Calculator for Android. Download now.
 ---
 ## Relative Humidity and Dew Point
 This form will compute the relative humidity given the dry and wet-bulb temperatures.

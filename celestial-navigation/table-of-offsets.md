@@ -1,3 +1,6 @@
+---
+description: Refine navigation precision with our Table of Offsets. Correct straight line of position (LOP) to approximate the arc of the circle of equal altitude.
+---
 ## Table of Offsets
 This calculation gives the corrections to the straight line of position (LOP) as drawn on a chart or plotting sheet to provide a closer approximation to the arc of the circle of equal altitude, a small circle of radius equal to the zenith distance.
 

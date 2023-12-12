@@ -1,3 +1,6 @@
+---
+description: From barometer conversions to wind direction, access tools for accurate corrections and conversions. Download our Nautical Calculator app.
+---
 ## Weather Data Calculators
 * [Barometer Measurement Conversions](./barometer-measurement-conversions.html)
 * [Correction of Barometer Reading for Gravity](./correction-of-barometer-reading-for-gravity.html)

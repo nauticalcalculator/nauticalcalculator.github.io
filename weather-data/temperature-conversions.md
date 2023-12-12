@@ -1,5 +1,5 @@
 ---
-description: Conversion from one temperature scale to the others.
+description: Easily convert temperatures between different scales with our Nautical Calculator for Android. Effortlessly switch between Celsius, Fahrenheit and Kelvin.
 ---
 ## Temperature Conversions
 This form allows conversion from one temperature scale to the others. Indicate which scale you are supplying the value for by selecting the appropriate radio button.

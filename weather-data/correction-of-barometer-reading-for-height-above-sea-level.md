@@ -1,5 +1,5 @@
 ---
-description: Correction to convert the observed barometer reading to the corresponding value at sea level. 
+description: Correction to convert the observed barometer reading to the corresponding value at sea level. Nautical Calculator for Android.
 ---
 ## Correction of Barometer Reading for Height Above Sea Level
 If simultaneous barometer readings at different heights are to be of maximum value in weather analysis, they should be converted to the corresponding readings at a standard height, usually sea level.
