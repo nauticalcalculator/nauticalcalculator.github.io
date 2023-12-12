@@ -1,4 +1,4 @@
-# Privacy Policy for Nautical Calculator
+## Privacy Policy for Nautical Calculator
 
 Version: 2021-08-17
 

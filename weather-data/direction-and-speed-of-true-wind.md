@@ -1,7 +1,7 @@
 ---
 description: Computes the difference between ship heading and true wind direction and true wind speed.
 ---
-# Direction and Speed of True Wind
+## Direction and Speed of True Wind
 This form will compute the difference between ship heading and true wind direction and true wind speed. Difference between ship heading and apparent wind direction and apparent wind speed must be provided.
 
 Note that if apparent wind speed is supplied in knots, it is necessary to supply the ship speed in knots.
