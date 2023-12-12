@@ -1,7 +1,11 @@
 theme: jekyll-theme-architect
 title: Nautical Calculator for Android
 description: Solve many of the marine navigation equations and conversions
-image: logo.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: logo.png
 
 # Google Analytics
 ga_tracking_id: G-E0N27WTK67
