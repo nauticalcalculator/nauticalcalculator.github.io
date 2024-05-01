@@ -16,8 +16,8 @@ description: Nautical Calculator for Android. Download right away and solve many
   * [Table of Offsets](./celestial-navigation/table-of-offsets.html)
 
 * [**Conversions**](/conversions/)
-  * [Chart Scales and Conversion for Nautical and Statute Miles](/conversions/#chart-scales-and-conversion-for-nautical-and-statute-miles.html)
-  * [Conversion for Meters, Feet and Fathoms](/conversions/#conversion-for-meters-feet-and-fathoms.html)
+  * [Chart Scales and Conversion for Nautical and Statute Miles](/conversions/#chart-scales-and-conversion-for-nautical-and-statute-miles)
+  * [Conversion for Meters, Feet and Fathoms](/conversions/#conversion-for-meters-feet-and-fathoms)
 
 * [**Distance Calculators**](/distance/)
   * [Dip of Sea Short of the Horizon](./distance/dip-of-sea-short-of-the-horizon.html)
@@ -35,8 +35,8 @@ description: Nautical Calculator for Android. Download right away and solve many
 * [**Logarithmic and Trigonometric Functions**](/log-and-trig/)
 
 * [**Sailings Calculators**](/sailings/)
-  * [Great Circle Sailing](/sailings/#great-circle-sailing.html)
-  * [Mercator Sailing](/sailings/#mercator-sailing.html)
+  * [Great Circle Sailing](/sailings/#great-circle-sailing)
+  * [Mercator Sailing](/sailings/#mercator-sailing)
 
 * [**Time Zones, Zone Descriptions, and Suffixes**](/time-zones/)
 
